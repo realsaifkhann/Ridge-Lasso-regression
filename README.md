@@ -1,4 +1,4 @@
-📘 Ridge and Lasso Regression
+#📘 Ridge and Lasso Regression
 (L1 & L2 Regularization Techniques)
 🔍 Introduction
 
