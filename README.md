@@ -1,10 +1,3 @@
-Perfect 👍
-Here’s a **clean, structured explanation** you can directly place into your **GitHub README** under something like:
-
-> `## Ridge and Lasso Regression (L1 & L2 Regularization)`
-
----
-
 # 📘 Ridge and Lasso Regression
 
 ### *(L1 & L2 Regularization Techniques)*
