@@ -171,28 +171,3 @@ Coefficients constrained → Better generalization
 > **Ridge regression controls model complexity by shrinking coefficients, while Lasso regression additionally performs feature selection by driving some coefficients to zero.**
 
 ---
-
-# 🚀 Usage in This Project
-
-In this project:
-
-* **Ridge Regression** was applied to address multicollinearity
-* **Lasso Regression** was used for feature selection & interpretability
-
-Both models were evaluated using:
-
-* RMSE
-* R² Score
-
----
-
----
-
-If you'd like, I can next help you with:
-
-✅ README formatting (full template)
-✅ Mathematical intuition diagrams
-✅ Ridge/Lasso visualization plots
-✅ Interview explanation notes
-
-Want a **full professional README template** for your HR Salary Prediction project?
